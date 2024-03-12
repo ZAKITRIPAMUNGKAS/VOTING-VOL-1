@@ -1,0 +1,58 @@
+/* Style untuk judul halaman */
+h1 {
+  color: #007bff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Style untuk container */
+.container {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+/* Style untuk list-group */
+.list-group {
+  padding: 0;
+}
+
+/* Style untuk item kandidat */
+.candidate-item {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+/* Style untuk tombol vote */
+.vote-button {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.vote-button:hover {
+  background-color: #218838;
+}
+
+/* Style untuk tombol masuk admin */
+.admin-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.admin-button:hover {
+  background-color: #0056b3;
+}
